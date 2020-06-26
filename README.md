@@ -1,5 +1,5 @@
-# EulerProject
-Trying painfully to solve projects from https://projecteuler.net/
+# What is the EulerProject?
+A set of fun & difficult cs problems. You can find them here: https://projecteuler.net/
 
 
 # What is this Repo?
